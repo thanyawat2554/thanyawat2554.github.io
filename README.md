@@ -1,2 +1,2 @@
-# thanyawat2554.github.io
-website
+# Welcome
+Hi, I'm Thanyawat Srivajana, and welcome to my corner of github.
